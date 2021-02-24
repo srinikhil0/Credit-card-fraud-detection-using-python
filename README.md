@@ -4,6 +4,8 @@ Hello Machile Learning and Data Science enthusiastics
 
 This project is based upon the Credit card fraud detection.
 
+The tools used are Jupyter notebook. Jupyter notebook is an editor for python code and widley used for data science.
+
 Here we use various python libraries for analyzing the data and representing the pictorial representation of the data analyzed
 
 The data set used in the alogorithm is: https://www.kaggle.com/mlg-ulb/creditcardfraud
