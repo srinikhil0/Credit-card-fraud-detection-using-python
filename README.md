@@ -21,3 +21,4 @@ The columns are following:
 4. class: Class has only either 0 or 1 values. 1 for fraudulent transactions, 0 for legitimate transactions
 
 To understand the source code see the source code file. Comments to the code added are understandable which code do what.
+
